@@ -48,5 +48,3 @@ This project involves data preparation, modelling, and analysis of a wine qualit
 The dataset contains 4781 rows and 12 attributes related to physicochemical tests and wine quality ratings (0 to 10). Description of each attribute is available in `Readme-A2data.txt`.
 
 ---
-
-Feel free to explore the notebook, modify model parameters, and extend the analysis!
