@@ -6,7 +6,6 @@ This project involves data preparation, modelling, and analysis of a wine qualit
 
 - `Code.ipynb` – Jupyter notebook with all data preparation, modelling, and visualisations.
 - `A2RandomSample.csv` – Random 600-instance sample from the original dataset (cleaned, no missing values).
-- `Report.pdf` – Written analysis and results summary with interpretations of all tasks.
 - `A2data.csv` – Original full dataset (used only for sampling).
 
 ###  Project Tasks
